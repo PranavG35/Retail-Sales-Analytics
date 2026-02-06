@@ -1,0 +1,51 @@
+product_id,product_name,category,cost_price,selling_price
+101,Smartphone A,Electronics,12000,18000
+102,Smartphone B,Electronics,15000,22000
+103,Laptop A,Electronics,35000,50000
+104,Laptop B,Electronics,42000,60000
+105,Headphones,Accessories,800,1500
+106,Wireless Mouse,Accessories,400,900
+107,Keyboard,Accessories,600,1200
+108,Smart Watch,Electronics,4000,8000
+109,Office Chair,Furniture,4000,7000
+110,Study Table,Furniture,6000,11000
+111,Sofa Set,Furniture,25000,42000
+112,Dining Table,Furniture,18000,32000
+113,Running Shoes,Footwear,2500,4500
+114,Casual Shoes,Footwear,1800,3500
+115,Formal Shoes,Footwear,2200,4200
+116,T-Shirt,Clothing,500,1200
+117,Jeans,Clothing,900,2200
+118,Jacket,Clothing,2000,4500
+119,Refrigerator,Appliances,22000,36000
+120,Washing Machine,Appliances,20000,34000
+121,Microwave Oven,Appliances,7000,14000
+122,Air Conditioner,Appliances,30000,52000
+123,LED TV 32,Electronics,14000,26000
+124,LED TV 43,Electronics,22000,38000
+125,Power Bank,Accessories,700,1600
+126,USB Cable,Accessories,150,400
+127,Router,Electronics,1500,3200
+128,Printer,Electronics,6000,12000
+129,Backpack,Accessories,900,2200
+130,Water Bottle,Accessories,200,600
+131,Blender,Appliances,1800,3800
+132,Toaster,Appliances,1200,2600
+133,Coffee Maker,Appliances,2500,5200
+134,Tablet,Electronics,16000,28000
+135,Earbuds,Accessories,1200,3500
+136,Gaming Mouse,Accessories,1200,3000
+137,Gaming Keyboard,Accessories,1800,4200
+138,Gaming Chair,Furniture,8500,16000
+139,Bookshelf,Furniture,3500,7200
+140,Wall Clock,Home Decor,700,1800
+141,Lamp,Home Decor,900,2200
+142,Curtains,Home Decor,1200,3000
+143,Mattress,Furniture,9000,18000
+144,Pillow Set,Home Decor,800,2000
+145,Smart Bulb,Electronics,600,1600
+146,Vacuum Cleaner,Appliances,6000,12000
+147,Iron Box,Appliances,1200,2600
+148,Electric Kettle,Appliances,900,2200
+149,Hair Dryer,Appliances,1100,2800
+150,Air Purifier,Appliances,14000,26000

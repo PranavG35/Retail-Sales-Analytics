@@ -1,0 +1,5 @@
+- Electronics category contributes the highest revenue
+- Festive months show visible sales spikes
+- A small customer segment contributes a majority of revenue
+- High-margin products should be prioritized for promotions
+- Repeat customers generate higher lifetime value
